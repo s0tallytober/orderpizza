@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="demo.venkatesh.onlinepizzaorder.MainActivity">
+    <item
+        android:id="@+id/meatsupreme"
+        android:orderInCategory="100"
+        android:title="@string/meatsupreme"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/superhawaiian"
+        android:orderInCategory="100"
+        android:title="@string/superhawaiian"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/veggie"
+        android:orderInCategory="100"
+        android:title="@string/veggie"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mediterrenean"
+        android:orderInCategory="100"
+        android:title="@string/mediterrenean"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/cheddarsupreme"
+        android:orderInCategory="100"
+        android:title="@string/cheddarsupreme"
+        app:showAsAction="never" />
+</menu>

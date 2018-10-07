@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">onlinepizzaorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="meatsupreme">Meat Supreme</string>
+    <string name="superhawaiian">SuperHawaiian</string>
+    <string name="veggie">Veggie</string>
+    <string name="mediterrenean">Mediterrenean</string>
+    <string name="cheddarsupreme">cheddarsupreme</string>
+
+</resources>
